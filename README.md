@@ -1,7 +1,7 @@
 Final Product
 =============================================================
-https://shrouded-tundra-49560-c786625b6851.herokuapp.com <br>
-Currently not up, website charges 💵💵💵 to host 🥲
+* https://shrouded-tundra-49560-c786625b6851.herokuapp.com <br>
+* Currently not up, website charges 💵💵💵 to host 🥲
 
 
 Wordguesser: a scaffolded (!) ESaaS getting-started assignment
