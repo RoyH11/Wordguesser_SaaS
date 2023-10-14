@@ -1,5 +1,4 @@
 # Wordguesser_SaaS 
-=============================================================
 This is a SaaS project I made during one of my software classes. 
 * Final product link https://shrouded-tundra-49560-c786625b6851.herokuapp.com <br>
 * Currently not up, website charges 💵💵💵 to host 🥲
